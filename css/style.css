@@ -1,0 +1,14 @@
+body{
+    background-color: coral;
+}
+h1{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 18;
+    color: aliceblue;
+}
+tr{
+    border-color:red;
+    background-color: firebrick;
+    font-size: 18;
+    font-family: 'Franklin Gothic Medium';
+}
